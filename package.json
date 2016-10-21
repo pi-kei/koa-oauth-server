@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "co": "^4.5.1",
-    "oauth2-server": "github:maxtruxa/node-oauth2-server"
+    "oauth2-server": "github:maxtruxa/node-oauth2-server#merge-prs"
   },
   "devDependencies": {
     "co-mocha": "^1.1.0",
